@@ -1,16 +1,27 @@
-### Hi there 👋
+# Alejandro's Developer Portfolio
 
-<!--
-**AleHts29/AleHts29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Alejandro! Welcome to my developer portfolio.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about software development, and over the past few years, I have been dedicated to acquiring knowledge in various areas of the field. My expertise ranges from FrontEnd to BackEnd, infrastructure, databases, and soft skills like quick learning, teamwork, effective communication, and maintaining a professional attitude. While I have experience with various technologies, my primary focus lies in backend system development and processes.
+
+
+
+## Skills
+
+Here are some of the skills I've honed along my journey:
+
+- 💻 **FrontEnd Development:** 
+- 🚀 **BackEnd Development:** Skilled in developing robust and efficient backend systems.
+- 🛠️ **Infrastructure:** Familiar with setting up and managing cloud-based infrastructure, ensuring smooth deployment.
+- 📚 **Database Management:** Experienced in designing and managing databases, optimizing queries for better performance.
+- 🤝 **Soft Skills:** I value quick learning, effective teamwork, and clear communication. I approach every project with a professional attitude.
+
+
+
+## Contact
+
+📬 Feel free to reach out to me if you'd like to discuss potential collaboration or just want to connect. You can find me on [LinkedIn](https://www.linkedin.com/in/jah0629/)
+
+Let's create something amazing together! 🌟
