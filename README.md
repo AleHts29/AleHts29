@@ -13,7 +13,7 @@ I am passionate about software development, and over the past few years, I have 
 Here are some of the skills I've honed along my journey:
 
 - 💻 **FrontEnd Development:** 
-- 🚀 **BackEnd Development:** Skilled in developing robust and efficient backend systems. | NodeJS | Spring | Go
+- 🚀 **BackEnd Development:** Skilled in developing robust and efficient backend systems. **NodeJS | Spring | Go**
 - 🛠️ **Infrastructure:** Familiar with setting up and managing cloud-based infrastructure, ensuring smooth deployment.
 - 📚 **Database Management:** Experienced in designing and managing databases, optimizing queries for better performance.
 - 🤝 **Soft Skills:** I value quick learning, effective teamwork, and clear communication. I approach every project with a professional attitude.
